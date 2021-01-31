@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Jacob Krone
 
 ## Education
