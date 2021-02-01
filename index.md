@@ -17,5 +17,3 @@ In the past, I have worked various jobs from dishwashing to farm worker. One of 
 I am currently a volunteer for the [Education & Cognition Lab](https://edcog.ca/) at McMaster, which supports research exploring how cognitive principles can inform instructional design and critical issues in education to bridge the gap between the lab and classroom.
 
 Additionally, I volunteer for [Frontier College](https://www.frontiercollege.ca/) through various programs such as the Student Alternative Learning program, Raz-Kids, and the Learning Together Club. 
-
-## Interests
